@@ -1,0 +1,3 @@
+Boules = 2 * Chris
+Chris = 2
+Print(boules)
